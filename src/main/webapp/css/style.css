@@ -1,0 +1,21 @@
+.imgblock {
+    background-image: url(../img/vechile.jpg);
+    background-size: cover;
+    height: 380px;
+    overflow: scroll;
+}
+
+.navbar-background {
+  background: #356ea7;
+  border: 0px;
+  margin-right: -17px;
+  margin-left: -20px;
+}
+
+.text-color {
+ color: white;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+  color: white;
+}
